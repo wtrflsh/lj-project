@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Factorial
+comment0.text=\r\n\ Calculates\ \!n\ for\ n\=user_input\r\n\r\n\ @author\ David\ L.\ Reimer\r\n\ @version\ Banana\r\n
+comment1.params=input
+comment1.target=Factorial(int)
+comment2.params=n
+comment2.target=int\ calcF(int)
+comment2.text=Brain\ of\ the\ Software
+numComments=3
